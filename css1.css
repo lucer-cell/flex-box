@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+}
+
+    
+
+.rigth{
+    background-color: cadetblue;
+    height: 100%;
+    border-radius: 20px;
+    width: 800px;
+    margin: 0px 30px 0px 30px;
+    
+}
+.left{
+    background-color: cadetblue;
+    height:100%;
+    border-radius:20px ;
+    width: 400px;
+    margin: 0px 30px 0px 30px;
+    
+}
+body{
+    background-color:paleturquoise;
+    
+}
+.container{
+    display: flex;
+    height: 1000px;
+}
